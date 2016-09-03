@@ -1,0 +1,8 @@
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionPolyMorphisme\PolyMorphisme\bin\Debug\PolyMorphisme.exe.config
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionPolyMorphisme\PolyMorphisme\obj\Debug\PolyMorphisme.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionPolyMorphisme\PolyMorphisme\bin\Debug\PolyMorphisme.exe
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionPolyMorphisme\PolyMorphisme\bin\Debug\PolyMorphisme.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionPolyMorphisme\PolyMorphisme\bin\Debug\FabienLibrary.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionPolyMorphisme\PolyMorphisme\bin\Debug\FabienLibrary.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionPolyMorphisme\PolyMorphisme\obj\Debug\PolyMorphisme.exe
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionPolyMorphisme\PolyMorphisme\obj\Debug\PolyMorphisme.pdb

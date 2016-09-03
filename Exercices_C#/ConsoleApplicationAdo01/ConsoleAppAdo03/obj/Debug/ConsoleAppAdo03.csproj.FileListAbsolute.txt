@@ -1,0 +1,11 @@
+c:\users\adminl\documents\visual studio 2013\Projects\ConsoleApplicationAdo01\ConsoleAppAdo03\bin\Debug\ConsoleAppAdo03.exe.config
+c:\users\adminl\documents\visual studio 2013\Projects\ConsoleApplicationAdo01\ConsoleAppAdo03\bin\Debug\ConsoleAppAdo03.exe
+c:\users\adminl\documents\visual studio 2013\Projects\ConsoleApplicationAdo01\ConsoleAppAdo03\bin\Debug\ConsoleAppAdo03.pdb
+c:\users\adminl\documents\visual studio 2013\Projects\ConsoleApplicationAdo01\ConsoleAppAdo03\obj\Debug\ConsoleAppAdo03.exe
+c:\users\adminl\documents\visual studio 2013\Projects\ConsoleApplicationAdo01\ConsoleAppAdo03\obj\Debug\ConsoleAppAdo03.pdb
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdo03\bin\Debug\ConsoleAppAdo03.exe.config
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdo03\obj\Debug\ConsoleAppAdo03.exe
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdo03\obj\Debug\ConsoleAppAdo03.pdb
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdo03\bin\Debug\ConsoleAppAdo03.exe
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdo03\bin\Debug\ConsoleAppAdo03.pdb
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdo03\obj\Debug\ConsoleAppAdo03.csprojResolveAssemblyReference.cache

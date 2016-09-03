@@ -1,0 +1,9 @@
+H:\Exercices_C#\ConsoleApplicationAdo01\WindowsFormsAppADO\bin\Debug\WindowsFormsAppADO.exe.config
+H:\Exercices_C#\ConsoleApplicationAdo01\WindowsFormsAppADO\bin\Debug\WindowsFormsAppADO.exe
+H:\Exercices_C#\ConsoleApplicationAdo01\WindowsFormsAppADO\bin\Debug\WindowsFormsAppADO.pdb
+H:\Exercices_C#\ConsoleApplicationAdo01\WindowsFormsAppADO\obj\Debug\WindowsFormsAppADO.csprojResolveAssemblyReference.cache
+H:\Exercices_C#\ConsoleApplicationAdo01\WindowsFormsAppADO\obj\Debug\WindowsFormsAppADO.FormPrincipal.resources
+H:\Exercices_C#\ConsoleApplicationAdo01\WindowsFormsAppADO\obj\Debug\WindowsFormsAppADO.Properties.Resources.resources
+H:\Exercices_C#\ConsoleApplicationAdo01\WindowsFormsAppADO\obj\Debug\WindowsFormsAppADO.csproj.GenerateResource.Cache
+H:\Exercices_C#\ConsoleApplicationAdo01\WindowsFormsAppADO\obj\Debug\WindowsFormsAppADO.exe
+H:\Exercices_C#\ConsoleApplicationAdo01\WindowsFormsAppADO\obj\Debug\WindowsFormsAppADO.pdb

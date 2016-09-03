@@ -1,0 +1,1 @@
+H:\Exercices_C#\ConsoleApplicationAdo01\WindowsFormsADO_Menu_Deroulant\bin\Debug\WindowsFormsADO_Menu_Deroulant.exe.config

@@ -1,0 +1,6 @@
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransSaisieUser\bin\Debug\ConsoleAppAdoTransSaisieUser.exe.config
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransSaisieUser\bin\Debug\ConsoleAppAdoTransSaisieUser.exe
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransSaisieUser\bin\Debug\ConsoleAppAdoTransSaisieUser.pdb
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransSaisieUser\obj\Debug\ConsoleAppAdoTransSaisieUser.exe
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransSaisieUser\obj\Debug\ConsoleAppAdoTransSaisieUser.pdb
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransSaisieUser\obj\Debug\ConsoleAppAdoTransSaisieUser.csprojResolveAssemblyReference.cache

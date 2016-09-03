@@ -1,0 +1,6 @@
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransaction\bin\Debug\ConsoleAppAdoTransaction.exe.config
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransaction\bin\Debug\ConsoleAppAdoTransaction.exe
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransaction\bin\Debug\ConsoleAppAdoTransaction.pdb
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransaction\obj\Debug\ConsoleAppAdoTransaction.csprojResolveAssemblyReference.cache
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransaction\obj\Debug\ConsoleAppAdoTransaction.exe
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoTransaction\obj\Debug\ConsoleAppAdoTransaction.pdb

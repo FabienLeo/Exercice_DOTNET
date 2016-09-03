@@ -1,0 +1,7 @@
+C:\VANMINH\SolutionRequeteLINQ\RequeteLINQ\bin\Debug\RequeteLINQ.exe.config
+H:\Exercices_C#\SolutionRequeteLINQ\RequeteLINQ\bin\Debug\RequeteLINQ.exe.config
+H:\Exercices_C#\SolutionRequeteLINQ\RequeteLINQ\bin\Debug\RequeteLINQ.exe
+H:\Exercices_C#\SolutionRequeteLINQ\RequeteLINQ\bin\Debug\RequeteLINQ.pdb
+H:\Exercices_C#\SolutionRequeteLINQ\RequeteLINQ\obj\Debug\RequeteLINQ.csprojResolveAssemblyReference.cache
+H:\Exercices_C#\SolutionRequeteLINQ\RequeteLINQ\obj\Debug\RequeteLINQ.exe
+H:\Exercices_C#\SolutionRequeteLINQ\RequeteLINQ\obj\Debug\RequeteLINQ.pdb

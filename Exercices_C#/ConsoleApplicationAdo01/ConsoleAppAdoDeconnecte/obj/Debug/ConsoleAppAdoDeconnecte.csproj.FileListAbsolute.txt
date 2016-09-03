@@ -1,0 +1,6 @@
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoDeconnecte\bin\Debug\ConsoleAppAdoDeconnecte.exe.config
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoDeconnecte\obj\Debug\ConsoleAppAdoDeconnecte.csprojResolveAssemblyReference.cache
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoDeconnecte\bin\Debug\ConsoleAppAdoDeconnecte.exe
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoDeconnecte\bin\Debug\ConsoleAppAdoDeconnecte.pdb
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoDeconnecte\obj\Debug\ConsoleAppAdoDeconnecte.exe
+H:\Exercices_C#\ConsoleApplicationAdo01\ConsoleAppAdoDeconnecte\obj\Debug\ConsoleAppAdoDeconnecte.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu_Test", "Menu_Test\Menu_Test.csproj", "{C529839B-C285-4D5D-8524-E3BE9CAFA0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuLibrary", "ClassLibrary_Test\MenuLibrary.csproj", "{E1EDA46B-445F-42EC-B391-A6F6D81284DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C529839B-C285-4D5D-8524-E3BE9CAFA0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C529839B-C285-4D5D-8524-E3BE9CAFA0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C529839B-C285-4D5D-8524-E3BE9CAFA0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C529839B-C285-4D5D-8524-E3BE9CAFA0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1EDA46B-445F-42EC-B391-A6F6D81284DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EDA46B-445F-42EC-B391-A6F6D81284DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EDA46B-445F-42EC-B391-A6F6D81284DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EDA46B-445F-42EC-B391-A6F6D81284DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

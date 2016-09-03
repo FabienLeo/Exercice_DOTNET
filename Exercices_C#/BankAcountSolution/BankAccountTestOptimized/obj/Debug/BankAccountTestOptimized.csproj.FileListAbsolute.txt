@@ -1,0 +1,7 @@
+c:\users\adminl\documents\visual studio 2013\Projects\BankAcountSolution\BankAccountTestOptimized\bin\Debug\BankAccountTestOptimized.dll
+c:\users\adminl\documents\visual studio 2013\Projects\BankAcountSolution\BankAccountTestOptimized\bin\Debug\BankAccountTestOptimized.pdb
+c:\users\adminl\documents\visual studio 2013\Projects\BankAcountSolution\BankAccountTestOptimized\bin\Debug\BankAcount.dll
+c:\users\adminl\documents\visual studio 2013\Projects\BankAcountSolution\BankAccountTestOptimized\bin\Debug\BankAcount.pdb
+c:\users\adminl\documents\visual studio 2013\Projects\BankAcountSolution\BankAccountTestOptimized\obj\Debug\BankAccountTestOptimized.csprojResolveAssemblyReference.cache
+c:\users\adminl\documents\visual studio 2013\Projects\BankAcountSolution\BankAccountTestOptimized\obj\Debug\BankAccountTestOptimized.dll
+c:\users\adminl\documents\visual studio 2013\Projects\BankAcountSolution\BankAccountTestOptimized\obj\Debug\BankAccountTestOptimized.pdb

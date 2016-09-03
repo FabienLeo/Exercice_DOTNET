@@ -1,0 +1,9 @@
+c:\users\administrateur\documents\visual studio 2012\Projects\Solution_Calculatrice_Fabien\Calculatrice_Fabien\bin\Debug\Calculatrice_Fabien.exe.config
+c:\users\administrateur\documents\visual studio 2012\Projects\Solution_Calculatrice_Fabien\Calculatrice_Fabien\bin\Debug\Calculatrice_Fabien.exe
+c:\users\administrateur\documents\visual studio 2012\Projects\Solution_Calculatrice_Fabien\Calculatrice_Fabien\bin\Debug\Calculatrice_Fabien.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\Solution_Calculatrice_Fabien\Calculatrice_Fabien\obj\Debug\Calculatrice_Fabien.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2012\Projects\Solution_Calculatrice_Fabien\Calculatrice_Fabien\obj\Debug\Calculatrice_Fabien.FenetrePrincipal.resources
+c:\users\administrateur\documents\visual studio 2012\Projects\Solution_Calculatrice_Fabien\Calculatrice_Fabien\obj\Debug\Calculatrice_Fabien.Properties.Resources.resources
+c:\users\administrateur\documents\visual studio 2012\Projects\Solution_Calculatrice_Fabien\Calculatrice_Fabien\obj\Debug\Calculatrice_Fabien.csproj.GenerateResource.Cache
+c:\users\administrateur\documents\visual studio 2012\Projects\Solution_Calculatrice_Fabien\Calculatrice_Fabien\obj\Debug\Calculatrice_Fabien.exe
+c:\users\administrateur\documents\visual studio 2012\Projects\Solution_Calculatrice_Fabien\Calculatrice_Fabien\obj\Debug\Calculatrice_Fabien.pdb

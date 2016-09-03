@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{132B9186-A18F-4211-AFBF-7FE7F2D38A7B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjetEntityFrameworkCodeFirst</RootNamespace>
+    <AssemblyName>ProjetEntityFrameworkCodeFirst</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dao\DaoImpl.cs" />
+    <Compile Include="Dao\IDao.cs" />
+    <Compile Include="Dao\PersonneContext.cs" />
+    <Compile Include="Metier\Adresse.cs" />
+    <Compile Include="Metier\Concessionnaire.cs" />
+    <Compile Include="Metier\Formation.cs" />
+    <Compile Include="Metier\FormationInter.cs" />
+    <Compile Include="Metier\FormationIntra.cs" />
+    <Compile Include="Metier\FormationPersonne.cs" />
+    <Compile Include="Metier\Personne.cs" />
+    <Compile Include="Metier\Voiture.cs" />
+    <Compile Include="Migrations\201608311307164_CreateAdressePersonneAndRealtionWithUs.cs" />
+    <Compile Include="Migrations\201608311307164_CreateAdressePersonneAndRealtionWithUs.Designer.cs">
+      <DependentUpon>201608311307164_CreateAdressePersonneAndRealtionWithUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608311309242_DeletePersonneIdInAdresse.cs" />
+    <Compile Include="Migrations\201608311309242_DeletePersonneIdInAdresse.Designer.cs">
+      <DependentUpon>201608311309242_DeletePersonneIdInAdresse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608311313315_ModifiedidNameInPersonne.cs" />
+    <Compile Include="Migrations\201608311313315_ModifiedidNameInPersonne.Designer.cs">
+      <DependentUpon>201608311313315_ModifiedidNameInPersonne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608311344030_CreationVoitureAndRelationWithPersonne.cs" />
+    <Compile Include="Migrations\201608311344030_CreationVoitureAndRelationWithPersonne.Designer.cs">
+      <DependentUpon>201608311344030_CreationVoitureAndRelationWithPersonne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608311351361_CreationConcessionnaireAndRelationWithVoiture.cs" />
+    <Compile Include="Migrations\201608311351361_CreationConcessionnaireAndRelationWithVoiture.Designer.cs">
+      <DependentUpon>201608311351361_CreationConcessionnaireAndRelationWithVoiture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608311400183_CreationFormationAndrelationWithPersonne.cs" />
+    <Compile Include="Migrations\201608311400183_CreationFormationAndrelationWithPersonne.Designer.cs">
+      <DependentUpon>201608311400183_CreationFormationAndrelationWithPersonne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608311405538_ModificationInConcessionnaire.cs" />
+    <Compile Include="Migrations\201608311405538_ModificationInConcessionnaire.Designer.cs">
+      <DependentUpon>201608311405538_ModificationInConcessionnaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608311406578_ModificationPersonne.cs" />
+    <Compile Include="Migrations\201608311406578_ModificationPersonne.Designer.cs">
+      <DependentUpon>201608311406578_ModificationPersonne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608311417286_HeritageFormation.cs" />
+    <Compile Include="Migrations\201608311417286_HeritageFormation.Designer.cs">
+      <DependentUpon>201608311417286_HeritageFormation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608311438410_AjoutPrixFormation.cs" />
+    <Compile Include="Migrations\201608311438410_AjoutPrixFormation.Designer.cs">
+      <DependentUpon>201608311438410_AjoutPrixFormation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609021357048_test.cs" />
+    <Compile Include="Migrations\201609021357048_test.Designer.cs">
+      <DependentUpon>201609021357048_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201608311307164_CreateAdressePersonneAndRealtionWithUs.resx">
+      <DependentUpon>201608311307164_CreateAdressePersonneAndRealtionWithUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608311309242_DeletePersonneIdInAdresse.resx">
+      <DependentUpon>201608311309242_DeletePersonneIdInAdresse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608311313315_ModifiedidNameInPersonne.resx">
+      <DependentUpon>201608311313315_ModifiedidNameInPersonne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608311344030_CreationVoitureAndRelationWithPersonne.resx">
+      <DependentUpon>201608311344030_CreationVoitureAndRelationWithPersonne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608311351361_CreationConcessionnaireAndRelationWithVoiture.resx">
+      <DependentUpon>201608311351361_CreationConcessionnaireAndRelationWithVoiture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608311400183_CreationFormationAndrelationWithPersonne.resx">
+      <DependentUpon>201608311400183_CreationFormationAndrelationWithPersonne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608311405538_ModificationInConcessionnaire.resx">
+      <DependentUpon>201608311405538_ModificationInConcessionnaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608311406578_ModificationPersonne.resx">
+      <DependentUpon>201608311406578_ModificationPersonne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608311417286_HeritageFormation.resx">
+      <DependentUpon>201608311417286_HeritageFormation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608311438410_AjoutPrixFormation.resx">
+      <DependentUpon>201608311438410_AjoutPrixFormation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609021357048_test.resx">
+      <DependentUpon>201609021357048_test.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

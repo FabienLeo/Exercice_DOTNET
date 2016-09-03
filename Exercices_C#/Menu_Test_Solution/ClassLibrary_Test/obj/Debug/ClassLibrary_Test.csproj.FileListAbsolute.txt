@@ -1,0 +1,4 @@
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\ClassLibrary_Test\bin\Debug\ClassLibrary_Test.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\ClassLibrary_Test\bin\Debug\ClassLibrary_Test.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\ClassLibrary_Test\obj\Debug\ClassLibrary_Test.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\ClassLibrary_Test\obj\Debug\ClassLibrary_Test.pdb

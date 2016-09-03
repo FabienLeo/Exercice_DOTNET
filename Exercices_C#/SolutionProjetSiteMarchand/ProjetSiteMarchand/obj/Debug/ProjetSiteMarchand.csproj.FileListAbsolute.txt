@@ -1,0 +1,8 @@
+c:\users\adminl\documents\visual studio 2013\Projects\SolutionProjetSiteMarchand\ProjetSiteMarchand\bin\Debug\ProjetSiteMarchand.exe.config
+c:\users\adminl\documents\visual studio 2013\Projects\SolutionProjetSiteMarchand\ProjetSiteMarchand\bin\Debug\ProjetSiteMarchand.exe
+c:\users\adminl\documents\visual studio 2013\Projects\SolutionProjetSiteMarchand\ProjetSiteMarchand\bin\Debug\ProjetSiteMarchand.pdb
+c:\users\adminl\documents\visual studio 2013\Projects\SolutionProjetSiteMarchand\ProjetSiteMarchand\bin\Debug\ClassLibrarySiteMarchand.dll
+c:\users\adminl\documents\visual studio 2013\Projects\SolutionProjetSiteMarchand\ProjetSiteMarchand\bin\Debug\ClassLibrarySiteMarchand.pdb
+c:\users\adminl\documents\visual studio 2013\Projects\SolutionProjetSiteMarchand\ProjetSiteMarchand\obj\Debug\ProjetSiteMarchand.csprojResolveAssemblyReference.cache
+c:\users\adminl\documents\visual studio 2013\Projects\SolutionProjetSiteMarchand\ProjetSiteMarchand\obj\Debug\ProjetSiteMarchand.exe
+c:\users\adminl\documents\visual studio 2013\Projects\SolutionProjetSiteMarchand\ProjetSiteMarchand\obj\Debug\ProjetSiteMarchand.pdb

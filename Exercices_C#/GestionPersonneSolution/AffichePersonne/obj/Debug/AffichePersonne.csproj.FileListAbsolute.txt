@@ -1,0 +1,5 @@
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\AffichePersonne\bin\Debug\AffichePersonne.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\AffichePersonne\bin\Debug\AffichePersonne.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\AffichePersonne\obj\Debug\AffichePersonne.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\AffichePersonne\obj\Debug\AffichePersonne.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\AffichePersonne\obj\Debug\AffichePersonne.csprojResolveAssemblyReference.cache

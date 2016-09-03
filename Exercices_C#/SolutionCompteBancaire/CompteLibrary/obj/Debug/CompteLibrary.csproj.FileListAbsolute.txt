@@ -1,0 +1,5 @@
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionCompteBancaire\CompteLibrary\bin\Debug\CompteLibrary.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionCompteBancaire\CompteLibrary\bin\Debug\CompteLibrary.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionCompteBancaire\CompteLibrary\obj\Debug\CompteLibrary.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionCompteBancaire\CompteLibrary\obj\Debug\CompteLibrary.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\SolutionCompteBancaire\CompteLibrary\obj\Debug\CompteLibrary.pdb

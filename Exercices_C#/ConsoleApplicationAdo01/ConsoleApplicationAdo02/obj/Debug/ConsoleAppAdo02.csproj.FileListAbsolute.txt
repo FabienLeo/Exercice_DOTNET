@@ -1,0 +1,5 @@
+c:\users\adminl\documents\visual studio 2013\Projects\ConsoleApplicationAdo01\ConsoleApplicationAdo02\bin\Debug\ConsoleApplicationAdo02.exe.config
+c:\users\adminl\documents\visual studio 2013\Projects\ConsoleApplicationAdo01\ConsoleApplicationAdo02\bin\Debug\ConsoleApplicationAdo02.exe
+c:\users\adminl\documents\visual studio 2013\Projects\ConsoleApplicationAdo01\ConsoleApplicationAdo02\bin\Debug\ConsoleApplicationAdo02.pdb
+c:\users\adminl\documents\visual studio 2013\Projects\ConsoleApplicationAdo01\ConsoleApplicationAdo02\obj\Debug\ConsoleApplicationAdo02.exe
+c:\users\adminl\documents\visual studio 2013\Projects\ConsoleApplicationAdo01\ConsoleApplicationAdo02\obj\Debug\ConsoleApplicationAdo02.pdb

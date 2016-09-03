@@ -1,0 +1,8 @@
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\GestionPersonne\bin\Debug\GestionPersonne.exe.config
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\GestionPersonne\obj\Debug\GestionPersonne.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\GestionPersonne\bin\Debug\GestionPersonne.exe
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\GestionPersonne\bin\Debug\GestionPersonne.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\GestionPersonne\bin\Debug\AffichePersonne.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\GestionPersonne\bin\Debug\AffichePersonne.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\GestionPersonne\obj\Debug\GestionPersonne.exe
+c:\users\administrateur\documents\visual studio 2012\Projects\GestionPersonneSolution\GestionPersonne\obj\Debug\GestionPersonne.pdb

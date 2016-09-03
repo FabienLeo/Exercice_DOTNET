@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionPersonne", "GestionPersonne\GestionPersonne.csproj", "{C5474224-24CD-43FD-A475-AA8EF5C36598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AffichePersonne", "AffichePersonne\AffichePersonne.csproj", "{6CCD1B78-CA18-49A2-98FC-CD6D092FF99B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5474224-24CD-43FD-A475-AA8EF5C36598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5474224-24CD-43FD-A475-AA8EF5C36598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5474224-24CD-43FD-A475-AA8EF5C36598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5474224-24CD-43FD-A475-AA8EF5C36598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCD1B78-CA18-49A2-98FC-CD6D092FF99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCD1B78-CA18-49A2-98FC-CD6D092FF99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCD1B78-CA18-49A2-98FC-CD6D092FF99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCD1B78-CA18-49A2-98FC-CD6D092FF99B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

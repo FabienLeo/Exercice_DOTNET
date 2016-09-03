@@ -1,0 +1,8 @@
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\Menu_Test\bin\Debug\Menu_Test.exe.config
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\Menu_Test\bin\Debug\Menu_Test.exe
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\Menu_Test\bin\Debug\Menu_Test.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\Menu_Test\bin\Debug\ClassLibrary_Test.dll
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\Menu_Test\bin\Debug\ClassLibrary_Test.pdb
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\Menu_Test\obj\Debug\Menu_Test.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\Menu_Test\obj\Debug\Menu_Test.exe
+c:\users\administrateur\documents\visual studio 2012\Projects\Menu_Test_Solution\Menu_Test\obj\Debug\Menu_Test.pdb
